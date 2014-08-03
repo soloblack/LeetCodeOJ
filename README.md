@@ -3,7 +3,7 @@ LeetCodeOJ
 
 ##LeetCode解题报告
 
-### 2014年8月3日 晚  
+#### 2014年8月3日 晚  
 >[计划]2014年8月4日解决4道题  
 >>1.[Single Number][ref]。
 [ref]: https://oj.leetcode.com/problems/single-number/  
